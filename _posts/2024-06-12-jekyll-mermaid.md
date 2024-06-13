@@ -1,5 +1,5 @@
 ---
-title: "JekyllでMermaid"
+title: "GithubPagesのJekyllでMermaid"
 last_modified_at: 2024-06-12T23:34:00+09:00
 toc: true
 categories:
